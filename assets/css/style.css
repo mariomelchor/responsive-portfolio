@@ -345,6 +345,11 @@ textarea {
 		width: 48%;
 		margin-right: 4%;
 	}
+	.img-left {
+		float: left;
+		margin-right: 25px;
+		margin-bottom: 10px;
+	}
 }
 
 @media ( max-width: 640px ) {
